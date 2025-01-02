@@ -1,0 +1,1 @@
+# Inspecionando-arquivos-GBFF-com-biopython
